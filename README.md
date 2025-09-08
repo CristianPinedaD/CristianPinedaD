@@ -1,8 +1,9 @@
 <!-- Profile README for CristianPinedaD -->
+<!-- Yes, this was written by AI, don't fight me. -->
 
 <h1 align="center">Hi there, I'm Cristian</h1>
 <p align="center">
-  <em>Third-Year Computer Science Student | C & C++ Enthusiast | Cybersecurity Explorer</em>
+  <em>Third-Year Computer Science Student | C & C++ Enthusiast | Cybersecurity Explorer | Space Cadet</em>
 </p>
 
 ---
