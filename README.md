@@ -9,10 +9,10 @@
 
 ### 🧑‍💻 About Me
 
-- 🎓 Third-year CS student passionate about systems and cybersecurity
-- 💻 Most comfortable in <b>C</b> and <b>C++</b>, with a dash of <b>Java</b> and <b>OracleSQL</b>
-- 🔐 Always curious about how things break (and how to secure them!)
-- 📚 My favorite work? The projects and homework that push me to my limits
+- 🎓 Third-year CS student passionate about systems and cybersecurity.
+- 💻 Most comfortable in <b>C</b> and <b>C++</b>, with a dash of <b>Java</b> and <b>OracleSQL</b>, still working on my webdev.
+- 🔐 Always curious about how things break (and how to secure them!). 
+- 📚 My favorite work? The projects and homework that push me to my limits. Trying to find a passion project.
 
 ---
 
