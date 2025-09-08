@@ -16,10 +16,13 @@
 
 ---
 
-### 💡 My Mantra
+### 💡 My Mantras
 
 > "To get something you never had, you have to do something you never did."  
-> <sub><i>No rest for the wicked.</i></sub>
+> <sub><i>Probably not originally Denzel Washington</i></sub>
+
+> "No rest for the wicked."
+> <sub><i>That one really famous self-help book</i></sub>
 
 ---
 
